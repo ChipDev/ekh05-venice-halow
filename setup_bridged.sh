@@ -15,7 +15,7 @@ AP_IF="wlan0"
 LAN_IF="eth0"
 BR="br0"
 HOSTAPD_BIN="hostapd_s1g"
-HOSTAPD_CFG="/root/hostapd_s1g.bridged.conf"
+HOSTAPD_CFG="./hostapd_s1g.bridged.conf"
 
 # Kill any wpa_supplicant processes 
 # (we aren't connecting to a network, but instead creating an AP)

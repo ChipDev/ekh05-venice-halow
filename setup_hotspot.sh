@@ -13,7 +13,7 @@ set -euo pipefail
 
 AP_IF="wlan0"
 HOSTAPD_BIN="hostapd_s1g"
-HOSTAPD_CFG="/root/hostapd_s1g.hotspot.conf"
+HOSTAPD_CFG="./hostapd_s1g.hotspot.conf"
 SUBNET_CIDR="192.168.1.1/24"
 DHCP_RANGE_START="192.168.1.100"
 DHCP_RANGE_END="192.168.1.200"
