@@ -1,4 +1,4 @@
-# GW16159 + EKH05 Bringup
+# GW16159 + EKH05 Setup
 
 This repository contains **bringup scripts and configuration files** for setting up a **WPA3 HaLow Access Point (AP)** using the **Gateworks GW16159** radio with the **MorseMicro EKH05 evaluation kit**. 
 It has been tested on a Gateworks VeniceFLEX board.
@@ -15,8 +15,8 @@ It has been tested on a Gateworks VeniceFLEX board.
 
 ## Documentation
 
-- [Setup Guide](./docs/GW16159_EKH05_Bringup.pdf)  
+- [Setup Guide](./docs/GW16159_EKH05_Setup.pdf)  
 
-<embed src="./docs/GW16159_EKH05_Bringup.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="./docs/GW16159_EKH05_Setup.pdf" width="100%" height="600px" type="application/pdf">
 
 ---
